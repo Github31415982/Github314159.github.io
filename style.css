@@ -56,3 +56,8 @@ article {
     margin-bottom: 20px;
     box-shadow: 2px 2px 8px #aaa;
 }
+#gameCanvas {
+    background: #000;
+    display: block;
+    margin: 20px auto;
+}
